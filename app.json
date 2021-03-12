@@ -3,6 +3,7 @@
   "displayName": "aura-analytics",
   "expo": {
     "name": "react-native-aura-analytics",
+    "icon": "Aeon2021.png",
     "slug": "react-native-aura-analytics",
     "version": "1.0.0",
     "ios": {
