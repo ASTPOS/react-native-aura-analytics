@@ -1,10 +1,18 @@
 {
   "name": "react-native-aura-analytics",
-  "displayName": "react-native-aura-analytics",
+  "displayName": "aura-analytics",
   "expo": {
     "name": "react-native-aura-analytics",
     "slug": "react-native-aura-analytics",
     "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.astposaura.auraAnalytics",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.astposaura.auraAnalytics",
+      "versionCode": 1
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
