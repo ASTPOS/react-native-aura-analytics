@@ -1,0 +1,12 @@
+{
+  "name": "react-native-aura-analytics",
+  "displayName": "react-native-aura-analytics",
+  "expo": {
+    "name": "react-native-aura-analytics",
+    "slug": "react-native-aura-analytics",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
