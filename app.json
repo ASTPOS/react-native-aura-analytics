@@ -1,8 +1,8 @@
 {
-  "name": "react-native-aura-analytics",
+  "name": "Aura Analytics",
   "displayName": "aura-analytics",
   "expo": {
-    "name": "react-native-aura-analytics",
+    "name": "Aura Analytics",
     "icon": "Aeon2021.png",
     "slug": "react-native-aura-analytics",
     "version": "1.0.0",
@@ -17,5 +17,5 @@
     "assetBundlePatterns": [
       "**/*"
     ]
-  }
+  }/Users/clarkmoniz/Desktop/work/react-native-aura-analytics/app.json
 }
